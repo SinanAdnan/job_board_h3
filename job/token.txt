@@ -1,0 +1,4 @@
+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
+git remote set-url origin https://<token>@githup.com/<username>/<repo>
+git remote set-url origin https://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@githup.com/SinanAdnan/job_board_h3
+git remote add origin https://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@githup.com/SinanAdnan/job_board_h3
